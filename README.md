@@ -1,4 +1,4 @@
-# Lame Text Editor 📄🤷‍♂️
+# Lame Text Editor C++ 📄🤷‍♂️
 
 Welcome to the **Lame Text Editor** – the text editor no one asked for but I’m making it anyway. Yes  it works... kinda. And no it’s not winning any design awards (or coding awards, or *any* awards). But hey, it’s here and it’s *trying its best*.
 
